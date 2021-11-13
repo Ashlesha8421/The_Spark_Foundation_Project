@@ -17,7 +17,7 @@ Data Science And Business Analytics Internship in The Sparks Foundation [The Spa
 2. Use Python for perform this task.
 3. Data can be found at : https://bit.ly/3kXTdox
 
-## Task-3: To Explore Business Analytocs - Retail (Level- Intermediate)
+## Task-3: To Explore Business Analytics - Retail (Level- Intermediate)
 1. Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
 2. As a business manager, try to find out the weak areas where you can work to make more profit.
 3. What all business problems you can derive by exploring the data?

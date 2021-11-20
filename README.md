@@ -16,6 +16,9 @@ Data Science And Business Analytics Internship in The Sparks Foundation [The Spa
 3. Data can be found on http://bit.ly/w-data
 4. What will be predicted score if a students studies for 9.25 hr/day ? 
 
+[<img align = right height = 50 width = 50 src = https://user-images.githubusercontent.com/75266852/133133918-b95ee747-5255-4acc-ab42-8f9e5ccf2bb6.png>](https://youtu.be/o2WI8YIS0FI)
+[<img align = right height = 50 width = 50 src = https://cdn-icons-png.flaticon.com/512/174/174857.png>](https://www.linkedin.com/posts/ashlesha-datir-b2678b200_task2-gripnov21-task2-activity-6867504284855078913-Gdu4)
+
 ## Task-2: Prediction using Unsupervised ML(Level-Beginner)
 ###### Please click on the images on right side to view my solution.
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.

@@ -47,7 +47,7 @@ Data Science And Business Analytics Internship in The Sparks Foundation [The Spa
 4. Dataset: https://bit.ly/2TK5Xn5
 
 
-[<img align = right height = 50 width = 50 src = https://user-images.githubusercontent.com/75266852/133133918-b95ee747-5255-4acc-ab42-8f9e5ccf2bb6.png>](https://youtu.be/RQK6UGeSktE)
+[<img align = right height = 50 width = 50 src = https://user-images.githubusercontent.com/75266852/133133918-b95ee747-5255-4acc-ab42-8f9e5ccf2bb6.png>](https://www.youtube.com/watch?v=uKZdmT0WOEg)
 [<img align = right height = 50 width = 50 src = https://cdn-icons-png.flaticon.com/512/174/174857.png>](https://www.linkedin.com/posts/ashlesha-datir-b2678b200_task6-gripnov21-task6-activity-6868251111929868288-Hunw)
 
 ## Task-6 : Prediction using Decision Tree Algorithm (Level - Intermediate)

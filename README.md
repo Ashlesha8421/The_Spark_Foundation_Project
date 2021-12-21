@@ -31,7 +31,7 @@ Data Science And Business Analytics Internship in The Sparks Foundation [The Spa
 ## Task-3: To Explore Business Analytics - Retail (Level- Intermediate)
 ###### Please click on the images on right side to view my solution.
 1. Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
-2. As a business manager, try to find out the weak areas where you can work to make more profit.
+2. As a business manager, try to find out the weak areas where you can make more & more profit.
 3. What all business problems you can derive by exploring the data?
 4. Dataset: https://bit.ly/3i4rbWl
 

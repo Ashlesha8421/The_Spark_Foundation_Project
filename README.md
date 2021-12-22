@@ -56,6 +56,6 @@ Data Science And Business Analytics Internship in The Sparks Foundation [The Spa
 2.The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 3.Data can be found at https://bit.ly/3kXTdox
 
-#  Thank You
+
 
 
